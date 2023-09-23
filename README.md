@@ -1,7 +1,6 @@
 # RHCSA Practice Exams
-Rough little exams I made for myself prior to the actual RHCSA exam. For obvious reasons, the answers will not be supplied.
+Rough little exams I made for myself prior to the actual RHCSA exam centered around RHEL 8. For obvious reasons, the answers will not be supplied.
 ## Requirements
-There are really only two requirements:
 - You have a working RHEL 8 system, ideally a virtual machine.
 - The user being used for most of this exam is called `rhcsa`
 - You have a secondary server acting as an SMB and NFS host. In the following exams, this is refered to as `Alma`, due to the fact that it was running on Alma Linux.
